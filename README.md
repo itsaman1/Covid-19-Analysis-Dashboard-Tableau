@@ -1,8 +1,8 @@
-OBJECTIVE Monitoring and tracking the spread of COVID-19: The dashboard aims to provide up-to-date information on the number of cases, testing rates, and other relevant metrics to enable effective monitoring and tracking of the pandemic.
+OBJECTIVE :- Monitoring and tracking the spread of COVID-19: The dashboard aims to provide up-to-date information on the number of cases, testing rates, and other relevant metrics to enable effective monitoring and tracking of the pandemic.
 
 Identifying hotspots and trends: The dashboard helps in identifying areas or regions with high infection rates or emerging hotspots. It allows users to analyze trends over time and understand the progression of the virus.
 
-About My Project I have successfully designed an insightful COVID-19 analysis dashboard using Tableau, focusing on data from India. Through careful data collection and preprocessing, I ensured the accuracy and reliability of the information presented in the dashboard.
+About My Project :-  I have successfully designed an insightful COVID-19 analysis dashboard using Tableau, focusing on data from India. Through careful data collection and preprocessing, I ensured the accuracy and reliability of the information presented in the dashboard.
 
 The COVID-19 analysis dashboard provides a comprehensive overview of the pandemic's impact in India, highlighting key statistics and trends. By leveraging Tableau's robust visualization capabilities, I transformed the raw data into interactive charts, graphs, and maps, allowing users to explore and understand the COVID-19 situation in India more effectively.
 
